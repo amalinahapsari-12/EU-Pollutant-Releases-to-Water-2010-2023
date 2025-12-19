@@ -91,7 +91,7 @@ This project demonstrates how public environmental datasets can reveal trends in
 ## Author
 
 **Amalina N. Hapsari**   
-🌐 [GitHub Portfolio](https://github.com/amalinahapsari-12)
+🌐 [GitHub Portfolio](https://github.com/amalinahapsari-12), [Notion Portfolio](https://www.notion.so/Who-Pollutes-the-Waters-23926125746a8002aa64ef2c41619b6a?source=copy_link)
 
 ---
 
