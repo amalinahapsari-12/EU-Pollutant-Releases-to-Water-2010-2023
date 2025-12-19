@@ -1,11 +1,11 @@
 
-# 🌊 EU Pollutant Releases to Water (2010–2023)
+# EU Pollutant Releases to Water (2010–2023)
 
 This project analyzes pollutant discharges into European surface and groundwater from 2010 to 2023, using publicly available data from the **European Pollutant Release and Transfer Register (E-PRTR)**. The analysis focuses on trends in pollutant quantities, identifying which substances dominate water pollution, how those trends have evolved over time, and which pollutants remain most persistent.
 
 ---
 
-## 📁 Dataset Summary
+## Dataset Summary
 
 - **Source:** [European Environment Agency - E-PRTR](https://www.eea.europa.eu/en/datahub/datahubitem-view/57606b9d-73c5-4dd6-b2f1-68fd85eebf5c)
 - **Years Covered:** 2010 to 2023
@@ -19,7 +19,7 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 - **Tableau Public:** For all data visualizations  
 - **Microsoft Excel:** For minor data cleaning  
@@ -27,9 +27,9 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-## 📊 Key Visualizations & Insights
+## Key Visualizations & Insights
 
-### 1. 📈 Total Water Pollutant Releases (Stacked Area Chart)
+### 1. Total Water Pollutant Releases (Stacked Area Chart)
 ![Stacked Area](visualizations/Area Chart – Stacked Area.png)
 - **Insight:** Overall pollutant releases to water show a fluctuating trend.  
 - **Nitrogen** dominates by a large margin throughout the years.
@@ -37,7 +37,7 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-### 2. 🧪 Most Released Pollutants in 2023 (Bar Chart)
+### 2. Most Released Pollutants in 2023 (Bar Chart)
 ![Bar Chart](visualizations/Bar Chart – Compare Pollutants in 2023.png)
 - In 2023, the **top 3 pollutants** released were:
   1. **Nitrogen**
@@ -47,14 +47,14 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-### 3. 📉 Pollutant Trends Over Time (Line Chart)
+### 3. Pollutant Trends Over Time (Line Chart)
 ![Line Chart](visualizations/Line Chart – Pollutant Trends Over Time.png)
 - **Nutrient pollutants** (Nitrogen and Phosphorus) remain consistently high.
 - **Cadmium** and **Mercury** show steady decreases, suggesting effective regulation.
 
 ---
 
-### 4. 🔥 Heatmap of Pollutants by Year
+### 4. Heatmap of Pollutants by Year
 ![Heatmap](visualizations/Heatmap – Year vs Pollutant.png)
 - **Color intensity** reflects pollutant quantity (log scale).
 - Highlights drastic drop-offs in several hazardous pollutants post-2015.
@@ -62,7 +62,7 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-### 5. ⛰️ Slope Chart – First vs Last Year
+### 5. Slope Chart – First vs Last Year
 ![Slope Chart](visualizations/Slope Chart – First vs Last Year.png)
 - Displays change in total pollutant release from **2010 to 2023**.
 - **Nitrogen** remained the highest despite some decrease.
@@ -70,7 +70,7 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-## 🧠 Summary of Findings
+## Summary of Findings
 
 - **Nutrients (N and P)** are the most significant pollutants in European water bodies.
 - **Heavy metal pollution** shows a declining trend, indicating effective environmental regulation.
@@ -79,7 +79,7 @@ This project analyzes pollutant discharges into European surface and groundwater
 
 ---
 
-## 🚀 Reflections & Next Steps
+## Reflections & Next Steps
 
 This project demonstrates how public environmental datasets can reveal trends in pollution that support both awareness and policy. Future directions could include:
 - Mapping pollutant releases **by country or region**
@@ -88,7 +88,7 @@ This project demonstrates how public environmental datasets can reveal trends in
 
 ---
 
-## 👤 Author
+## Author
 
 **Amalina N. Hapsari**   
 🌐 [GitHub Portfolio](https://github.com/amalinahapsari-12)
